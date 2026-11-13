@@ -1,0 +1,10 @@
+ChinaMWT — LVWT CineSAX Workbench
+Copyright 2026 ChinaMWT contributors
+
+Project-owned application code is distributed under the Apache License, Version2.0.
+The included MONAI/MedNeXt files retain the MONAI Consortium copyright and
+Apache-2.0 notices. See vendor/MONAI_LICENSE.txt and THIRD_PARTY_NOTICES.md.
+
+Scientific measurement functions and reference parameters follow the CN-LVWT
+research workflow. The separate segmentation checkpoint is not included and
+is not relicensed by this notice.

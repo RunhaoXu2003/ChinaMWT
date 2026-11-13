@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the software repository and the relevant study publications when using ChinaMWT."
+type: software
+title: "ChinaMWT (LVWT CineSAX Workbench)"
+version: "0.3.0"
+authors:
+  - name: "ChinaMWT contributors"
+repository-code: "https://github.com/RunhaoXu2003/ChinaMWT"
+url: "https://github.com/RunhaoXu2003/ChinaMWT"
+license: Apache-2.0
+abstract: "Bilingual short-axis cine CMR segmentation and wall-thickness workbench with frozen demographic MWT reference evaluation. Segmentation weights are supplied separately."

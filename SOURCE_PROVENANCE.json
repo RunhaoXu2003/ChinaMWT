@@ -1,0 +1,141 @@
+{
+  "version": "0.3.0",
+  "repository": "https://github.com/RunhaoXu2003/ChinaMWT",
+  "copied_runtime_assets": [
+    {
+      "path": "app.py",
+      "sha256": "f3f47aaa683345c7d076c5a46f6ad596c2d6d204f35a8eda4c1e61be959e0efc",
+      "bytes": 52151
+    },
+    {
+      "path": "ui_localization.py",
+      "sha256": "2e0d96a0a9cf0179633e330515a85619ae6017dd7ad4877be19a65e5a1375ddc",
+      "bytes": 4782
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "6be907f054c32ddf7117fd48de52d3ee8c3b20bd3d94f9999b2bd26d577f992f",
+      "bytes": 324
+    },
+    {
+      "path": "assets/openscience.mplstyle",
+      "sha256": "c3df89573e1b8e81e6be3365b5b42772378f5c079fc4ca30322fafbcc5e862b0",
+      "bytes": 1679
+    },
+    {
+      "path": "reference/reference_model.json",
+      "sha256": "f312a36890b64437510cae30c5a97a7f0e2443f65aede80f4c1bb52b64307717",
+      "bytes": 3543
+    },
+    {
+      "path": "reference/reference_parity_cases.csv",
+      "sha256": "e360e5ab75c0c57b4c5533b8c90eec59d5741bd7e6f137d306eb1ad9e3f36bdf",
+      "bytes": 102706
+    },
+    {
+      "path": "reference/locked_lookup_grid.csv",
+      "sha256": "4aba2957b0642929bea73db4ed4b77d0a56261e677c48e8b4805c75ae1a53a9f",
+      "bytes": 14699
+    },
+    {
+      "path": "vendor/MONAI_LICENSE.txt",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357
+    },
+    {
+      "path": "tools/validate_imports.py",
+      "sha256": "7a031ecbc920735d1fc1a253fbfaf4363a1eb70f128c32f421a20a6e59b8cc48",
+      "bytes": 13743
+    },
+    {
+      "path": "core/__init__.py",
+      "sha256": "8581637140474709038056e80ed4e2dca77938f2a59e8a0635674b3d5b3008e7",
+      "bytes": 69
+    },
+    {
+      "path": "core/common.py",
+      "sha256": "cdb8e21a035c5f28212c8bcd57fe9d4c6d04702bb8febee3957d21666ffd0fb0",
+      "bytes": 1611
+    },
+    {
+      "path": "core/dicom_reader.py",
+      "sha256": "4e1d5997070048acbcc99f9f1b3a39bede2115d4c0048522c9725289c61847ac",
+      "bytes": 9852
+    },
+    {
+      "path": "core/i18n.py",
+      "sha256": "eb23a2c8b48a1d4b98163c8f907e7c752166a6474816fdfa671ed4656c0e09b6",
+      "bytes": 28316
+    },
+    {
+      "path": "core/images.py",
+      "sha256": "dafdf3ae126b4e5ae1824af2638072bc0c70ff501d290763e74e0f7a0536e634",
+      "bytes": 5291
+    },
+    {
+      "path": "core/importers.py",
+      "sha256": "a6918bc1d4ddb42ee42806f735fabab0ccd2dcbabf79900f062e01b603b1f58f",
+      "bytes": 14814
+    },
+    {
+      "path": "core/measurement.py",
+      "sha256": "0ab8aa483f86b5616d0e026942d45ddfdad55987903e901f4730243e69e0e135",
+      "bytes": 8887
+    },
+    {
+      "path": "core/reference.py",
+      "sha256": "8940ce7704081a25b07ac9de36c4aa7b87c2d2ac0051556f1d8a4893d8c0e31f",
+      "bytes": 3212
+    },
+    {
+      "path": "core/reports.py",
+      "sha256": "588f791c6dbdadb1c8082207c7bc9a4bf2c0df2731754c680cd73639dd46340a",
+      "bytes": 7051
+    },
+    {
+      "path": "core/segmentation.py",
+      "sha256": "14b87ee2c5c6306ad3b34abe07a6aa8474c30f26d8497ed6ff6d56cf0fee91da",
+      "bytes": 4766
+    },
+    {
+      "path": "vendor/__init__.py",
+      "sha256": "757ce072b88b76f817df3a5ad6841c78e9c22d24664e1ba1d2d65ea3b0037eb2",
+      "bytes": 62
+    },
+    {
+      "path": "vendor/corseg_postprocessing.py",
+      "sha256": "e2fb1f5c2cfa74fa577e4f412701aa5e254ed48c64f531e7e8fcff561cf41c14",
+      "bytes": 5990
+    },
+    {
+      "path": "vendor/jade_coordinates.py",
+      "sha256": "0474cc7f6dabcff5a6e6cb64f92595bc3180d4088c6c84af9f49b340128b6d36",
+      "bytes": 2841
+    },
+    {
+      "path": "vendor/mednext.py",
+      "sha256": "7d28a2d7a0a85282ea6c74574dffd41ed1622c0cbe16165d9dd843805ff59d11",
+      "bytes": 13591
+    },
+    {
+      "path": "vendor/mednext_block.py",
+      "sha256": "18a685911be6868efdcb1c1f632792689b4716d935f39758d2d038feb3e7b100",
+      "bytes": 10487
+    },
+    {
+      "path": "vendor/study_engine.py",
+      "sha256": "669fca1f4ce693aa9b3966de2bbb5c8c49b155baa441497e0870a71ff79c7404",
+      "bytes": 17350
+    }
+  ],
+  "adaptations": [
+    "Portable launcher; public documentation and tests. Scientific runtime files are byte-identical to the verified workbench."
+  ],
+  "excluded": [
+    "participant images/masks/tables",
+    "local QA/output/log/configuration",
+    "R fitted objects",
+    "segmentation checkpoint",
+    "original development scripts with local paths"
+  ]
+}

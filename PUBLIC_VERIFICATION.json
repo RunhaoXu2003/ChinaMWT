@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "version": "0.3.0",
+  "date": "2026-11-13",
+  "reference_queries": 778,
+  "maximum_reference_errors": {
+    "mu": 2.2026824808563106e-13,
+    "limit": 2.1316282072803006e-13,
+    "z": 1.3011813848606835e-13
+  },
+  "boundary_checks": 4,
+  "synthetic_import_checks": 139,
+  "qt_startup_language_checks": 8,
+  "qt_backend": "offscreen",
+  "scope": "Patient-free source-package checks; separate weights are not included; no new clinical validation."
+}
